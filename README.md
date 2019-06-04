@@ -1,6 +1,7 @@
 # Lets-Do-Pot 
 > Pottery Website for Kestra Anderson-Watson
-> Forked from Strata by HTML5 UP
+
+Forked from Strata by HTML5 UP
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
